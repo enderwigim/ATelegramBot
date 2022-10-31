@@ -9,9 +9,9 @@ URL = os.environ.get("URL")
 
 app = Flask(__name__)
 
-TOKEN = '5535320183:AAF_wqhZNEQ5yIqAGwtesGBxtIHrlrLJG9I'
+
 bot = telegram.Bot(token=TOKEN)
-URL = "https://c90f-139-47-18-90.eu.ngrok.io"
+
 
 
 
