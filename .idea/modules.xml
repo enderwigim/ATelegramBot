@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../TelegramBot/.idea/TelegramBot.iml" filepath="$PROJECT_DIR$/../TelegramBot/.idea/TelegramBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TelegramBot2.iml" filepath="$PROJECT_DIR$/.idea/TelegramBot2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Stock/.idea/stock-news-extrahard-start.iml" filepath="$PROJECT_DIR$/../Stock/.idea/stock-news-extrahard-start.iml" />
+    </modules>
+  </component>
+</project>
