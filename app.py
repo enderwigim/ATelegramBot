@@ -13,8 +13,6 @@ app = Flask(__name__)
 bot = telegram.Bot(token=TOKEN)
 
 
-
-
 @app.route('/', methods=['GET', 'POST'])
 def index():
     if request.method == 'POST':

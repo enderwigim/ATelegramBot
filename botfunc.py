@@ -14,7 +14,7 @@ def tel_parse_message(message):
 
 
 def start(bot, chat_id, username):
-    bot.send_message(chat_id=chat_id, text=f"Welcome to {username} Santiago Bot,"
+    bot.send_message(chat_id=chat_id, text=f"Welcome {username}! I'm Santiago Bot,"
                                            f" I'm here to make all your dreams come true! "
                                            f"Type 'help' if you want to see all the available commands")
 
